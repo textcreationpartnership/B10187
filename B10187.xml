@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the actions with the whole defeat of the Turkish Army at Vienna by the imperiallists.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10187</idno>
+            <idno type="STC">Wing T2341A</idno>
+            <idno type="STC">ESTC R185462</idno>
+            <idno type="EEBO-CITATION">61297167</idno>
+            <idno type="OCLC">ocm 61297167</idno>
+            <idno type="VID">180677</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10187)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180677)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2840:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the actions with the whole defeat of the Turkish Army at Vienna by the imperiallists.</title>
+               </titleStmt>
+               <extent>4 [i.e. 3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted by Benjamin Took and John Crook ... and are to be sold by Mary Crook,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+                  <note>Page 3 wrongly numbered 4.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Austro-Turkish War, 1683-1699.</term>
+               <term>Vienna (Austria) --  History --  Siege, 1683 --  Sources.</term>
+               <term>Europe --  History --  17th century --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:180677:1" rendition="simple:additions"/>
+            <head>A TRUE ACCOUNT Of the ACTIONS With the whole Defeat Of the <hi>Turkiſh</hi> Army AT VIENNA By the IMPERIALLISTS.</head>
+            <p>From the Imperial Camp about four miles from Vienna <hi>September</hi> the 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> The King of <hi>Poland</hi> has Joyned us, and all things are diſpoſing for the relief of <hi>Vienna,</hi> which continues to make a very brave Defence; however the Garriſon is much weakned, and therefore the Governor has let the Duke o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Lorrain</hi> know, that no time is to be loſt. You have already had an account o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Action we were Ingaged in againſt a body of <hi>Turks</hi> and <hi>Tartars</hi> on the 24th paſt, to which we cannot add any thing, unleſs it be to doe right to the King of <hi>Englands</hi> Subjects, who had a ſhare in it. Count <hi>Tafe</hi> Commanded in the left wing and gave Eminent proofs of his Courage and Conduct, and the Lord Lansdowne, who was with him, with other Volontiers; did diſtinguiſh himſelf with great Gallentry in the hotteſt of Action.</p>
+            <p>Lintz <hi>September</hi> the 9th The 6 Inſtant the Prince of <hi>Baden</hi> returned hither from the Army, (which paſſed the <hi>Danube</hi> the 3.4. and 5th Inſtant, at a place called Stetzdort) and gave the Emperor an account of the reſolution that have been taken for the Relief of <hi>Vienna:</hi> That the King of <hi>Poland</hi> was to march with the Van to<g ref="char:EOLhyphen"/>wards <hi>Maurbach</hi> and <hi>Maur,</hi> the main body commanded by the Duke of <hi>Lorrain</hi> to<g ref="char:EOLhyphen"/>wards <hi>walkersdorf,</hi> and Count <hi>waldecke</hi> with the Rear towards Cloſter Neuburg, That they intended to attack the enemy on <hi>Sunday</hi> next, &amp; that the Chriſtian Army conſiſts of 85000 Fighting men. The 6 inſtant arrived here the Elector of Bavaria, who parted again from hence yeſterday with the Emperor for Cloſter Neubourg. Before his Imperial Majeſty went hence, he received advice that the <hi>Turks</hi> had the 7 inſtant Sprung two mines, one whereof made a Breach in the Baſtion of Lebels and that thereupon they made a very furious aſſault, in which they were repulſed. However the place begins to be in great danger, as we know by the ſigns the be<g ref="char:EOLhyphen"/>ſieged have made. The 7 the Empereſs was brought to Bed of a <hi>Daughter.</hi> From Hungary we have advice that Prince Abafty, as likewiſe the Princes <hi>Walachia</hi> and <hi>Moldavia</hi> have orders from the Grand Vſiier to remain with their Troops near <hi>Raab</hi> to hinder the Incurſions of that Garriſon and of Comorra, and to ſecure the Convoys That go to the Turkiſh Army</p>
+            <pb n="2" facs="tcp:180677:2"/>
+            <p>
+               <hi>Ratiſbonne September</hi> 13th we have Letters from the Imperial Army near <hi>Mautern</hi> of the ſixth Inſtant which ſay; That the next Morning they were to March into the Tolne fields, where they were to expect the Troops of Franconia and Saxony; and the Letters from Lintz of the 9 tell us, that the Turks were ma<g ref="char:EOLhyphen"/>ſters of the Ditch of <hi>Vienna</hi> that they had ſprung two Great Mines; one of which did not ſucceed, but the other blew up the point of the Lebel Baſtion, and that thereup<g ref="char:EOLhyphen"/>on they made a very fierce aſſault, but that they were repulſed with Conſiderable Loſſe That the King of <hi>Poland</hi> and the Duke of <hi>Lorrain</hi> were Marching to relieve the place (which began to be in great Diſtreſs) and that the whole Army was Compaſſed of 64 <hi>Battalions</hi> of Foot, 500 in each, and 162 ſquadrons of Horſe and Dragoons, in each 220 which amounts to 32000 Foot and 32400 Horſe and Dragoons, in all 64400 men</p>
+            <p>Ratisbonne <hi>September</hi> 16 ſeveral Couriers have paſſed through this place ſince yeſterday Morning; coming from <hi>Vienna</hi> and from the Imperial Army, by whome we are informed That on <hi>Sunday</hi> the 12th inſtant, the Chriſtian Army attacked the Turks in their Camp, and totaly defeated them, that their Foot were all cut in pieces and their Horſe fled, leaving their Bagage; Cannon, Tents, and all they had behind them, that the Emperial Army ſtood in Batalia all the Night following that they might be in a poſture to receive the Enemy, in caſe they ſhould rally again; That the King of <hi>Poland</hi> with his Troops and ſome of the Germans, were gone in perſuit of them, and were not returned to the Imperial Army on <hi>Munday</hi> Noon; at which time Liberty was given to the Souldiers to ſtrip the Enemies dead; its ſaid the Imperialliſts have not loſt above 4 or 500 men; and that the King of <hi>Poland</hi> has taken two Horſe Tails (which are the Turks ſignals of War) as like<g ref="char:EOLhyphen"/>wiſe the Grand Viſiers ſtandard; and his own Horſe, but that it is not yet known what is become of himſelf; the Letters we expect to morrow will give us with more certainty the particulers of this great Action</p>
+            <p>Bruſſels <hi>September</hi> the one and twentieth: Laſt Night arrived here a Gentleman from the Imperial Army, who brought the great and happy news of the raiſing the Siege of <hi>Vienna</hi> and the total defeat of the Tur<g ref="char:EOLhyphen"/>kiſh Army on Sunday the 12th inſtant, of which he gives us theſe particulars. That the Chriſtian Army conſiſted of 40000 Horſe, and the like number of Foot, That the King of <hi>Poland</hi> commanded the Right Wing. the Duke of <hi>Lorrain,</hi> ac<g ref="char:EOLhyphen"/>companied with the Electors of <hi>Saxony</hi> and <hi>Bavaria,</hi> the main Body, and Prince <hi>Waldecke,</hi> the Prince <hi>de Salme,</hi> Prince <hi>Louis</hi> of <hi>Baden,</hi> and the Marquis of <hi>Bran<g ref="char:EOLhyphen"/>denburg, Bareith,</hi> the Left Wing; That the whole Army advanced in this order of Battle towards the Turkiſh Camp with ſeveral ſmall Parties of Horſe and Dragoons before them to clear the way; That the Grand Viſier had drawn up his Army within his Camp, having ſeveral advanced Bodies of Horſe and Foot to defend their Retrenchments, and had they made a ſtout reſiſtance, it would have been difficult to have forced their Camp; but that theſe advanced Bodies<g ref="char:punc">▪</g> not being well ſeconded, gave way, and put their main Body into diſ<g ref="char:EOLhyphen"/>order; That the Chriſtians having without much oppoſition entred the Ene<g ref="char:EOLhyphen"/>mies Camp, their Horſe immediately fled, and the Grand Viſier with them, That their Foot, being between 20 and 25000 men, made a conſiderable reſiſtance; but being environed by the Chriſtians, were all cut in pieces; That the Poliſh Horſe purſued the Enemies Cavalry till night, and killed many of them, and
+<pb n="4" facs="tcp:180677:2" rendition="simple:additions"/>intended to continue the purſuit the next day; That the Enemies Camp infinitely rich That all their Baggage and Cannon are taken, with 60000 Tents, and that in that of the Grands Viſiers, was found two Millions of Money. That <hi>Vienna</hi> was brought to the laſt extremity, and could have held out but four days longer, the Gariſon being reduced from 15000 to 5000 men; However they made a very brisk Sally at the time the Chriſtians entred the Turkiſh Camp, and killed many of the Turks that were ſtill in the Trenches. Tis ſaid the Enemy loſt during the Siege 70000 men, beſides thoſe ſlain on this great day. Count <hi>Starenberg</hi> has given the Marquis <hi>de Grana</hi> a ſhort account of their Deliverance, having Writ his Letter upon one of the Enemies Cannon. We were told that nei<g ref="char:EOLhyphen"/>ther <hi>Teckeley</hi> nor <hi>Abafti</hi> was in the Turkiſh Army, and that there was not one <hi>Tartar</hi> found among them. In our next we may be able to give you a more parti<g ref="char:EOLhyphen"/>cular Relation of this great and ſignal Victory, which coſt the Chriſtians not above 3 or 400 men; among whom are no Perſons of any note, except the Duke <hi>de Crov's</hi> Brother, and the Count <hi>de Tratmanſdorf.</hi>
+            </p>
+            <p>
+               <hi>Bruſels Sept.</hi> 1. It is hard to expreſs the Joy we are here in occaſioned by the news we have of the entire Defeate of the Turkiſh Army; We firſt heard it from a Courier which arrived here yeſterday morning from <hi>Paſſaw,</hi> but in the Evening we had the certainty of it by an Officer who came from the Imperial Camp, and from <hi>Vienna</hi> the 13. inſt. the day after this Memorable Action, He tells us That the 12. about ten in the morning, the Chriſtian Army attaked the Tur<g ref="char:EOLhyphen"/>kiſh Camp. That the King of <hi>Poland</hi> made the attack on the ſide of the Empreſſes Houſe called <hi>la Favorite,</hi> where the Grand Viſier had his Quarters; The Duke of <hi>Lorrain</hi> on the ſide of the Baſtion of the <hi>Court,</hi> and Prince <hi>Waldecke</hi> on that of the Scotch Gate. That having without any great oppoſition entred the Ene<g ref="char:EOLhyphen"/>mies Camp, their Horſe fled, and the Foot was all deſtroyed, and all their Baggage Cannon, Tents and Treaſure taken; during this action the Beſieged Sallied out, and fell upon the Janiſſaries, who, as is ſaid, to the number of 10000 had that day the Guard of the Trenches, and were in the poſts againſt the Town, and, being likewiſe attackt on the ſide of the Army, none of them eſcaped.</p>
+            <p>The Mareſchal <hi>d'Eumieres</hi> continues ſtill at <hi>Leſſineſs;</hi> On Sunday laſt ſome Squadrons of French Horſe were at <hi>Aloſt</hi> and <hi>Aſch,</hi> and carried away ſeveral of the Inhabitans for refuſing to pay the Contributions they demanded, 4000 Ducth Foot, and 2000 Horſe are encamped between <hi>Malines</hi> and <hi>Doffle.</hi> and 2000 Foot more are marching to <hi>Gaunt</hi> to remain in Gariſon there under the Command of Monſieur <hi>d' Auvergue.</hi> The Cavalry of this Gariſon are drawn within the Coun<g ref="char:EOLhyphen"/>terſcarp, and encamped along the dry Ditch, and all the lower part about the Town is laid under water. We have advice that the Dutch Fleet is arrived at <hi>Gottenburg.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Reprinted by <hi>Benjamin Took</hi> and <hi>John Crook,</hi> Printers to the Kings Moſt Excellent Majeſty, and are to be ſold by <hi>Mary Crook</hi> at His Majeſties Printing-Houſe on <hi>Ormond-Key</hi> 1683.</p>
+            <trailer>FINIS.</trailer>
+            <pb n="2" facs="tcp:180677:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:180677:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
